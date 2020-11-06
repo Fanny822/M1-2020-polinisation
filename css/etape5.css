@@ -1,0 +1,27 @@
+body {
+  background: black;
+}
+
+
+section {
+  background: black;
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+
+a {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 3em;
+  color: pink;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+p {
+  background: yellow;
+  font-family: 'Peddana', serif;
+  font-size: 1.5em;
+  color: black;
+  padding: 30px 50px 20px 50px;
+}

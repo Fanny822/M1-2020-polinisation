@@ -1,0 +1,96 @@
+body {
+  background: black;
+}
+
+.fullbleed {
+
+  width: 100vw;
+  margin: 0;
+  margin-left: 50%;
+  margin-top: 80Px;
+  transform: translateX(-50%);
+}
+
+
+.fullbleed img {
+  width: 100% ;
+}
+
+
+section {
+  background: black;
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+#main-menu ul {
+  display: flex;
+  justify-content: center;
+list-style-type: none;
+
+
+}
+
+#main-menu li {
+  flex-basis: 8em;
+  border-left: 1px solid #000;
+  border-top: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+
+header {
+  display: flex;
+  background: white;
+  color: blue;
+  font-family: 'Oswald', sans-serif;
+  min-height: 15vh;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+
+.navigation {
+padding-left: 30px;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
+
+
+
+h1 {
+font-size: 8em;
+text-align: center;
+font-family: 'Ranchers', cursive ;
+color: white;
+border: 6px white solid;
+margin-top: 100px;
+margin-bottom: 30px;
+padding: 30px 30px 30px 30px;
+}
+
+.suivant {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 3em;
+  color: pink;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+p {
+  background: yellow;
+  font-family: 'Peddana', serif;
+  font-size: 1.5em;
+  color: black;
+  padding: 30px 50px 20px 50px;
+}
+
+
+
+footer {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 1em;
+
+}
